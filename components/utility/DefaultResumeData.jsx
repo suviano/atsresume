@@ -1,6 +1,7 @@
 const DefaultResumeData = {
   name: "MARCUS HALL",
   position: "Developer",
+  title: ["name", "position"],
   contactInformation: "+1-555-0100",
   email: "beddylea@gmail.com",
   address: "San Francisco, CA",
